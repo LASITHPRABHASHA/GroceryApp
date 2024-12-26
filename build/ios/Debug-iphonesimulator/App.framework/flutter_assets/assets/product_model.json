@@ -1,0 +1,175 @@
+{
+  "fruits": [
+    {
+      "title": "Pineapple",
+      "description": "A tropical fruit with a sweet, tangy flavor and a tough, spiky exterior. Pineapples are rich in vitamins, enzymes, and antioxidants.",
+      "image": "images/fruits/Pineapple.png",
+      "price": 5.5,
+      "seller": "The Seller",
+      "category": "fruits",
+      "review": "(55 Reviews)",
+      "rate": 5.0,
+      "quantity": 1
+    },
+    {
+      "title": "Apple",
+      "description": "Crisp, juicy apples are perfect for snacking and come in a variety of flavors, from sweet to tart. Packed with fiber and vitamin C.",
+      "image": "images/fruits/Apple.jpg",
+      "price": 3,
+      "seller": "Mrs Store",
+      "category": "fruits",
+      "review": "(200 Reviews)",
+      "rate": 5.0,
+      "quantity": 1
+    },
+    {
+      "title": "Orange",
+      "description": "Oranges are juicy and sweet with a vibrant color. They are an excellent source of vitamin C and other essential nutrients.",
+      "image": "images/fruits/Orange.png",
+      "price": 5,
+      "seller": "Shoes Store",
+      "category": "fruits",
+      "review": "(100 Reviews)",
+      "rate": 4.8,
+      "quantity": 1
+    },
+    {
+      "title": "Banana",
+      "description": "Bananas are a convenient and nutritious snack, rich in potassium, and offer a quick energy boost with their natural sugars.",
+      "image": "images/fruits/Banana.jpg",
+      "price": 15,
+      "seller": "Hari Store",
+      "category": "fruits",
+      "review": "(60 Reviews)",
+      "rate": 3.0,
+      "quantity": 1
+    }
+  ],
+  "vegetables": [
+    {
+      "title": "Beetroot",
+      "description": "Beetroots are known for their deep red color and earthy flavor. They are rich in essential nutrients, such as fiber, folate, and vitamin C.",
+      "image": "images/vegetables/Beetroot.jpg",
+      "price": 10,
+      "seller": "Yojana Seller",
+      "category": "vegetables",
+      "review": "(200 Reviews)",
+      "rate": 4.0,
+      "quantity": 1
+    },
+    {
+      "title": "Carrot",
+      "description": "Crunchy and sweet, carrots are an excellent source of beta-carotene, fiber, vitamin K, and antioxidants.",
+      "image": "images/vegetables/Carrots.jpg",
+      "price": 5,
+      "seller": "Love Seller",
+      "category": "vegetables",
+      "review": "(99 Reviews)",
+      "rate": 4.7,
+      "quantity": 1
+    },
+    {
+      "title": "Cabbage",
+      "description": "Cabbage is a leafy green vegetable known for its versatility in cooking. It's high in vitamins C and K and can be enjoyed raw or cooked.",
+      "image": "images/vegetables/Cabbage.jpg",
+      "price": 9.9,
+      "seller": "Mr Beast",
+      "category": "vegetables",
+      "review": "(20 Reviews)",
+      "rate": 4.2,
+      "quantity": 1
+    }
+  ],
+  "beverages": [
+    {
+      "title": "Avocado Juice",
+      "description": "Creamy and nutritious, avocado juice is a delightful beverage rich in healthy fats, vitamins, and minerals.",
+      "image": "images/beverages/AvocadoJuice.avif",
+      "price": 2.9,
+      "seller": "Sila Store",
+      "category": "beverages",
+      "review": "(25 Reviews)",
+      "rate": 5.0,
+      "quantity": 1
+    },
+    {
+      "title": "Orange Juice",
+      "description": "Refreshing and tangy, orange juice is a favorite breakfast drink packed with vitamin C and antioxidants.",
+      "image": "images/beverages/OrangeJuice.jpg",
+      "price": 10,
+      "seller": "My Store",
+      "category": "beverages",
+      "review": "(100 Reviews)",
+      "rate": 4.0,
+      "quantity": 1
+    },
+    {
+      "title": "Coca Cola",
+      "description": "Coca Cola is a classic carbonated soft drink known for its unique taste and refreshing qualities.",
+      "image": "images/beverages/CocaCola.jpg",
+      "price": 2,
+      "seller": "Love Store",
+      "category": "beverages",
+      "review": "(20 Reviews)",
+      "rate": 5.0,
+      "quantity": 1
+    },
+    {
+      "title": "Sprite",
+      "description": "Sprite is a lemon-lime flavored soft drink, crisp and refreshing, perfect for quenching your thirst.",
+      "image": "images/beverages/Sprite.png",
+      "price": 2,
+      "seller": "PK Store",
+      "category": "beverages",
+      "review": "(55 Reviews)",
+      "rate": 5.0,
+      "quantity": 1
+    }
+  ],
+  "snacks": [
+    {
+      "title": "Chips",
+      "description": "Crispy and delicious, these chips are the perfect snack for any time of the day, made from the finest potatoes.",
+      "image": "images/snacks/Chips1.webp",
+      "price": 5,
+      "seller": "Gold Store",
+      "category": "snacks",
+      "review": "(320 Reviews)",
+      "rate": 4.5,
+      "quantity": 1
+    },
+    {
+      "title": "French Fries",
+      "description": "Golden and crispy, French fries are a popular snack and side dish, enjoyed by people of all ages.",
+      "image": "images/snacks/FrenchFries.png",
+      "price": 15,
+      "seller": "Love Love",
+      "category": "snacks",
+      "review": "(100 Reviews)",
+      "rate": 5.0,
+      "quantity": 1
+    },
+    {
+      "title": "Potato Chips",
+      "description": "These potato chips are crunchy and savory, a classic snack that’s perfect for any occasion.",
+      "image": "images/snacks/PotatoChips.avif",
+      "price": 15,
+      "seller": "I Am Seller",
+      "category": "snacks",
+      "review": "(80 Reviews)",
+      "rate": 4.5,
+      "quantity": 1
+    },
+    {
+      "title": "Tip Tip",
+      "description": "Tip Tip snacks are a delightful mix of flavors and textures, perfect for munching anytime.",
+      "image": "images/snacks/TipTip.jpeg",
+      "price": 2,
+      "seller": "I Am Seller",
+      "category": "snacks",
+      "review": "(80 Reviews)",
+      "rate": 4.5,
+      "quantity": 1
+    }
+  ]
+}

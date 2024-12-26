@@ -13,16 +13,41 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  int currentSlider = 0;
   int selectedIndex = 0;
+  List<Product> currentProducts = [];
+  bool isLoading = true;
+
+  @override
+  void initState() {
+    super.initState();
+    loadCategoryProducts();
+  }
+
+  Future<void> loadCategoryProducts() async {
+    setState(() {
+      isLoading = true;
+    });
+
+    try {
+      // Get the category name in lowercase
+      String category = categoriesList[selectedIndex].title.toLowerCase();
+      // Load products for the selected category
+      List<Product> products = await ProductRepository.loadProducts(category);
+
+      setState(() {
+        currentProducts = products;
+        isLoading = false;
+      });
+    } catch (e) {
+      setState(() {
+        currentProducts = [];
+        isLoading = false;
+      });
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
-    List<List<Product>> selectcategories = [
-      Fruits,
-      Vegetables,
-      Beverages,
-      Snacks,
-    ];
     return Scaffold(
       backgroundColor: Colors.white,
       body: SingleChildScrollView(
@@ -32,36 +57,41 @@ class _HomeScreenState extends State<HomeScreen> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               const SizedBox(height: 35),
-              // for custom appbar
               const CustomAppBar(),
               const SizedBox(height: 20),
-              // for search bar
               const MySearchBAR(),
               const SizedBox(height: 20),
-              // for category selection
               categoryItems(),
-
               const SizedBox(height: 20),
-              if (selectedIndex == 0)
-
-                // for shopping items
-                const SizedBox(height: 10),
-              GridView.builder(
-                padding: EdgeInsets.zero,
-                physics: const NeverScrollableScrollPhysics(),
-                shrinkWrap: true,
-                gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+              if (isLoading)
+                const Center(
+                  child: CircularProgressIndicator(),
+                )
+              else if (currentProducts.isEmpty)
+                const Center(
+                  child: Text(
+                    'No products available',
+                    style: TextStyle(fontSize: 16),
+                  ),
+                )
+              else
+                GridView.builder(
+                  padding: EdgeInsets.zero,
+                  physics: const NeverScrollableScrollPhysics(),
+                  shrinkWrap: true,
+                  gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                     crossAxisCount: 2,
                     childAspectRatio: 0.75,
                     crossAxisSpacing: 20,
-                    mainAxisSpacing: 20),
-                itemCount: selectcategories[selectedIndex].length,
-                itemBuilder: (context, index) {
-                  return ProductCard(
-                    product: selectcategories[selectedIndex][index],
-                  );
-                },
-              )
+                    mainAxisSpacing: 20,
+                  ),
+                  itemCount: currentProducts.length,
+                  itemBuilder: (context, index) {
+                    return ProductCard(
+                      product: currentProducts[index],
+                    );
+                  },
+                ),
             ],
           ),
         ),
@@ -82,6 +112,7 @@ class _HomeScreenState extends State<HomeScreen> {
               setState(() {
                 selectedIndex = index;
               });
+              loadCategoryProducts();
             },
             child: Container(
               padding: const EdgeInsets.all(5),
@@ -99,8 +130,9 @@ class _HomeScreenState extends State<HomeScreen> {
                     decoration: BoxDecoration(
                       shape: BoxShape.circle,
                       image: DecorationImage(
-                          image: AssetImage(categoriesList[index].image),
-                          fit: BoxFit.cover),
+                        image: AssetImage(categoriesList[index].image),
+                        fit: BoxFit.cover,
+                      ),
                     ),
                   ),
                   const SizedBox(height: 5),
@@ -110,7 +142,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       fontSize: 16,
                       fontWeight: FontWeight.bold,
                     ),
-                  )
+                  ),
                 ],
               ),
             ),

@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		ZMU66trkKqrpkgiSJQiZYwSiCK8=
+		wyS7G6KAGiVV+JAB4r0FRyVVn8o=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		4RshbpZdv3SgfCuIom8x08QL4oE=
+		vLM6PXQ6VUi5rXL6hmrmVlhu0F8=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
-		uOZ17hekt97XX+4nWUDgDSiuIJk=
+		daBO52tga8lMITylu54VDifzUdo=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		UidXVkb8HF37eY05wIWYScFvRR0=
+		OsnGoMsz413DztJefZodId3Xp0s=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -72,149 +72,93 @@
 		<data>
 		Wjv9oqDbzWZJGNDm0TwsvHK60TU=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/product_model.json</key>
+		<data>
+		sts1PJr/xiwD1lCc5Y/17l0aow8=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
 		/CUoTuPQqqdexfyOT9lpJhV+2MQ=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/all.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/beverages/AvocadoJuice.avif</key>
 		<data>
-		Ob4kPHHt0bjo7aTx5dwp5jTEkbc=
+		LuG6rgVhbSRVW2xqIZgBWk33RYI=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/all/jacket.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/beverages/CocaCola.jpg</key>
 		<data>
-		rEcscoF1vNEvMdhJTp4KPzuD4fI=
+		0Y7wyskfDuAh1LQFjil5P6yYxfI=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/all/miband.jpg</key>
+		<key>Frameworks/App.framework/flutter_assets/images/beverages/OrangeJuice.jpg</key>
 		<data>
-		ENo2giaB2b8tlpl3rEe6RbXtYZY=
+		R4XY1Cuv4M+tmULS38ja+/xHrXc=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/all/sweet.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/beverages/Sprite.png</key>
 		<data>
-		4fNJ4TQTCr0MwUp8lKOhE/3b1Do=
+		Thjr65ue1FMr4c4jat5C0BVi4iU=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/all/wireless.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/beverages/StrawberryJuice.jpg</key>
 		<data>
-		aXFfVzEry4w2LnVJK1+PI4JU0Ik=
+		jL8OeV2APMZHY7dRt+TKbIAL7cY=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/beauty.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Apple.jpg</key>
 		<data>
-		C68QLPm5Z/ukQr66DvuQc1JbO88=
+		cB1ivjW8fXjlDTmE8MKY5SL2HJA=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/beauty/face%20care.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Avacado.jpg</key>
 		<data>
-		1534fPojDR2x0ESpSQKSnj8hTkM=
+		Xcr7Xcv1+A0QHEaglg4vTWr0aS0=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/beauty/perfume.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Banana.jpg</key>
 		<data>
-		JD5RNG0VA+gTXEwb6cvDSlGS2zg=
+		tY6Jm6w8vQu4WALNFag0Cu76HAo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Blueberries.jpg</key>
+		<data>
+		uVwlMnFTMsTrOoffou/6pQ0cAQY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Orange.png</key>
+		<data>
+		i/GLd6vnthFahMTv71dciTxX3PY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Pineapple.png</key>
+		<data>
+		BMV9E24aA1tu7IDLDI/oFauBdVk=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/icon.png</key>
 		<data>
 		kVFK3l6GnHNMcquotk3vZo9QuGA=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/image1.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/snacks/Chips1.webp</key>
 		<data>
-		Y2e5aG6EOXgXFSiqTGfhjX27/tY=
+		f/+olKGBNH09PHvb0YznCzkjtHI=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/jewelry.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/snacks/FrenchFries.png</key>
 		<data>
-		+gtzW2ZFoXeXCWV0W7Tkk6sx0zk=
+		FrrwEy2RqeaLnSEkVxeO1OS2n1Q=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/jewelry/earrings.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/snacks/PotatoChips.avif</key>
 		<data>
-		+yRPqawGBKJ9eTktKO7k15K+VIw=
+		ARNrESA81OmTOAx8wEV92cRbZrQ=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/jewelry/jewelry-box.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/snacks/TipTip.jpeg</key>
 		<data>
-		fDq0RK29kJKPxyuX+60mcQZKLkY=
+		zhsILfIe54ZDX3b2/6gQp+zbLgY=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/jewelry/necklace-jewellery.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/vegetables/Beetroot.jpg</key>
 		<data>
-		28uSWbCXJmCe3MzkMom5mXoHaVA=
+		rhaRx64qDDG/tZclP9K6q+axweQ=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/jewelry/wedding%20ring.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/vegetables/Cabbage.jpg</key>
 		<data>
-		GDR/DPhG4Z9zTa2BKnSkNsCR8Fs=
+		qKT/ucR8CShncwwwQju/iIEhFH4=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/men%20fashion/man%20jacket.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/vegetables/Carrots.jpg</key>
 		<data>
-		HX8LZgSoQqo4Yug2VQ4xrcpllB8=
+		DJPcm8DbjdzS0VNWgKuzNi1yX48=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/men%20fashion/pants.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/vegetables/Leeks.jpg</key>
 		<data>
-		TLwQ50qK5TLMuOfY00YkspYRuN8=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/men%20fashion/shert.png</key>
-		<data>
-		Lfizzv9qBxTDwtQUjEosfZU+4UA=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/men%20fashion/t-shirt.png</key>
-		<data>
-		jsTpMeNb1OdStk7dVJKQBO9JblI=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/men%20fashion/watch.png</key>
-		<data>
-		58M5j6J3UkRf3+5+g1IYcHDkvss=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/men.png</key>
-		<data>
-		9JJgaP30fM0gSxnyGWwy3uqEf2A=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/profile3.png</key>
-		<data>
-		6TH/rkvLwBrl6p8nzuCvjdRbKS4=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/shoes.png</key>
-		<data>
-		+eAVhGVFYYRcaUlH8dT+4/nvjhY=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/shoes/Air%20Jordan.png</key>
-		<data>
-		Ff06qNSuKAnOn2yj8FJ8URoh+3o=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/shoes/New%20Balance%20990.png</key>
-		<data>
-		VFdXj71IPaUwDUbwR/QAsUfep8c=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/shoes/sports%20shoes.png</key>
-		<data>
-		Kfg4X86JUn9TdrRlK/ikdn853kA=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/shoes/vans%20old%20skool.png</key>
-		<data>
-		iQUp8HYAWWx6xxSk69N5kmgPWqY=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/shoes/white%20sneaker.png</key>
-		<data>
-		38gZNzZSp5+Xwex0DxbrdFDPRkA=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/shoes/women-shoes.png</key>
-		<data>
-		HtYYQ1DiHSt3MujaaBa78HpyQkM=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/slider.jpg</key>
-		<data>
-		0nkn3WgLB6VRmRAFxzqsXneXrEY=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/slider3.png</key>
-		<data>
-		3piTuaNoKi9cMRLbz7YysPRA9n0=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/women%20fashion/kurta.png</key>
-		<data>
-		EtyHRoegocK4HgVLTkgGUgBFj/M=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/women%20fashion/lehenga.png</key>
-		<data>
-		tuca8AnzjBX+9hDAqG60J0uQI0I=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/women%20fashion/pants.png</key>
-		<data>
-		s43/ya5cZvB5SHHULfl+62bf+oY=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/images/women%20fashion/t-shert.png</key>
-		<data>
-		GoIZLfVtnPgxUSn6vlvjmsaLoJQ=
+		LlLMScnizhqfog8oH0RFE0V4IAw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/isolate_snapshot_data</key>
 		<data>
@@ -222,7 +166,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		v2q5GbsE49icmfRt/ymAZV06dZI=
+		5MtEJGFDdqMUonoDijgy4QOFKXE=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -334,7 +278,7 @@
 		</data>
 		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation</key>
 		<data>
-		bIoIgqBTV3a5uY56IMxFRVs836Q=
+		OGUqtokZRdJp+GiTAP58xsPuurg=
 		</data>
 		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation_privacy.bundle/Info.plist</key>
 		<data>
@@ -354,7 +298,7 @@
 		</data>
 		<key>Runner.debug.dylib</key>
 		<data>
-		tYVs9NolKmIR/+8ncILuEv8+i7U=
+		NQYRHjTkLZ/Vt0s7p3X6zRZsQ7Y=
 		</data>
 		<key>__preview.dylib</key>
 		<data>
@@ -437,7 +381,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cHqxzErdY9tE1fWOfjuRXLjb9u07Pd7a17HyPFGH/pY=
+			cfBMtytB12yVN6uFt0RWO0XFD41oGS2F9h4/zDhvOUI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -451,21 +395,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m4V6/VNa8OKnaNXjhrreIZhmZArfH8DZ6TRLR0Y+zXk=
+			RRTMKYAGUsP3Pza9t0G7mwD2g10PZwmecLFcZNK+nzk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iEkB9BREWE51YoUNnLX0hREud3C7/FBKtM56RCYTC1o=
+			JStYeff/2I93bTlq4jduc4RKeERbKJXIweWo6FMI2Zc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gvJFfjMyXZJIyYHE0Unn5LoqAdLc5MlWr1F+tnJqiTk=
+			Q3+J4xOfIQkFJUVbjhoWbuF25/4wiHUu6s50/OGpoRE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -482,6 +426,13 @@
 			qmZ3Gv5zxdu3Jfx+NhRCWWOBnEjyWQUI6qNJVgYYJko=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/product_model.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XNe7Lvao6bN9B35AQfZ3wWVphL+5px/LJsPKS2AkiPo=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<dict>
 			<key>hash2</key>
@@ -489,60 +440,81 @@
 			2YZbZxoJ1oPROoYwidiCXg9ho3aWzl19RIvIAjqmJFM=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/all.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/beverages/AvocadoJuice.avif</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4XSLJ0QW+qk/Oe80920t09uQWo/WtTvTwY1sbTriY2c=
+			d2/awo/AR12kwuu1tP7wxXn8NlnP0OZm4dwQfHsxsco=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/all/jacket.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/beverages/CocaCola.jpg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			go1h7BMrMzB7j5i7F1AWTC+W6XyeerhGj7RFdXqtHhQ=
+			bRRQYpA4M0B0y3lOfE6nslwtfYLntIUptJuZ1BxZxjI=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/all/miband.jpg</key>
+		<key>Frameworks/App.framework/flutter_assets/images/beverages/OrangeJuice.jpg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pNZe5yMCAuMHv5s1rpUsgJikQrU0iIpwcygHE6z3AM8=
+			PWpNmwMdK3fXmNxxtVLxw/+Y5bE5/VN27ZqBm50m0Nc=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/all/sweet.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/beverages/Sprite.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L25C7GGYZdAYq9vTrfSAHcLrZ2KqMXZnSir76bB+fD4=
+			pnoTnws2/AEovqDmdUYqvckwnpdK15xQmbAddSAhAKw=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/all/wireless.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/beverages/StrawberryJuice.jpg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P90SFe3w1JpqUuQS0EdzEj9BhddVwT0iow2jCXwyC2E=
+			H00JFQq6i29zAZxmSseCPc/FlbQlEgTHWKTegGwEr/E=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/beauty.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Apple.jpg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CtP2CDuX6kkWZkhtvg09nclJX3BmeV1qgXZMTjv12/w=
+			GcOVujaRVPPE8zKDDExZwDoh7t3Z3cvlXUEkXAl2Ocg=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/beauty/face%20care.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Avacado.jpg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4PzJUKEmWDZ+/g/EIUCgDzMF8AQ/mDyaKjxLcqmQI20=
+			E7V6i8pz62uTvMLk6ceUkY/0T/vL40EDweAAPfJvhKw=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/beauty/perfume.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Banana.jpg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0IZOw/fAZmH6w9JHtdpJ+6IlTduWwVNWdMg8r0TmT5A=
+			y7yX65u9sq5uJnXaese6xhvaAlKTZnTtlXZ8Pp5XhzI=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Blueberries.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yhzZgpzWXypeA6TJYN6nc9xQACDAmFKlbyeDa3lSX3g=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Orange.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uJhnn8rKQtz3ZCOA3gFlbitDWHqCS9othSKwujoRLuE=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Pineapple.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FY4o7RBRkgSb+Mhn4nj9lxEDBXe3VUpm5s/z3efQ73A=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/icon.png</key>
@@ -552,186 +524,60 @@
 			JShDZMfnp0pJkFRJh3ylt4NgODCLX+J/5Fd2QMROb9I=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/image1.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/snacks/Chips1.webp</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gZ739qzx0hB/ccEqNmQ6lgH/ObiiJbgGt1Zrb8hNrpM=
+			OKlKIX+bEQshJ9M8nxnU+kfgFTpGM6xlEsLKbDqaLcU=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/jewelry.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/snacks/FrenchFries.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ehUu78cyXMlUEGlp974YRk5TKTKNTLMQEsOlrqafK54=
+			mRo8VlL0k4mprWIEJQ/zyn9E42XGuqyvedNFdLbzs6U=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/jewelry/earrings.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/snacks/PotatoChips.avif</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hqaCdEDneYBxbqLBEKNQp3MBezX3/8L6DDA/YNjBG/g=
+			YRo69mqS8KVEe1QVFtuqnfdC8Xp0qFSdM6iW8wxI1z8=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/jewelry/jewelry-box.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/snacks/TipTip.jpeg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s2qLfzVr2/1YGkNJeP4HPIc7r9l9n32ffEeHJHro4xI=
+			i0EUuqFa5trKz0PxxjhAHmiwQ+iAl/tHhyT1m03Iahs=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/jewelry/necklace-jewellery.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/vegetables/Beetroot.jpg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LF4pPkQUJTSEDm6QaZyFvz+iZRGiw0JYX0IOmDwTkeY=
+			H19YE00NwZ/iQp3Cy3/G+uni951bVQkMAqma06ff5Yo=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/jewelry/wedding%20ring.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/vegetables/Cabbage.jpg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GcyJlxs9BYWl8hPjfv0rwCFkm45INQ/JyqxIU2sa9ec=
+			KuQ8HtTHQUKwly9EOAGQt1taXjeG00B2t87qV0h0vr0=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/men%20fashion/man%20jacket.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/vegetables/Carrots.jpg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IghGpSD6ITiQdjBWooxPm0hMKE5l0TBYa8Re4Pi5iyQ=
+			qHt04cUjTcPkWzzQWUjm/lNzTD8UyorzqBRexqkOHeU=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/men%20fashion/pants.png</key>
+		<key>Frameworks/App.framework/flutter_assets/images/vegetables/Leeks.jpg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NpfSiqDoNCgMWtMu5v5WsqMsY2QL3KiHGM4qa8fMrC4=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/men%20fashion/shert.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gvHCPj3VuEzwweUESrnqpF9U6RyazaME2q4wfKrev+4=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/men%20fashion/t-shirt.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			r0EE3+7x5Z7tIRobzd5Jp35Q2oCk1qxnomwSnRt+WDo=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/men%20fashion/watch.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uXbTsVq7KB5PXPR8lsLKPzlyIwhco08131xweyVHuDo=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/men.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yRUooguZHXfmoKOGoYvlVEETNRYx8QYAzuz5QDaq8rw=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/profile3.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UHx/gxNrG8hhVml2w2zmWrtVb4F46pDL+tEvHNMEWwk=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/shoes.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GsBgxouxAhRdzp1EvIHIAG1t2PfTOKyqjZsd+4ZxbQ8=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/shoes/Air%20Jordan.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yG8QxTNaPtcXf9NWofPnipk0MmrljuR2gUbyM/11eUk=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/shoes/New%20Balance%20990.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sWSkpUDgxIOgjk2d04TQ7yXH/9K1gDmatjcvRl+wQeU=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/shoes/sports%20shoes.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qTmVBGGjBVD9zB7gBMBYXpQKjYz/Iz8/3W7Uy4287QE=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/shoes/vans%20old%20skool.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NaPq4fuAHyqs0ue+9bYkcTDxo918CeCxim1Ylwfo/Lg=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/shoes/white%20sneaker.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			V1AdUs0sO3LZjwZ3Hpi3FEFkCDtBvJmIvu+Bs7cdEvI=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/shoes/women-shoes.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hQbyrcSqh0Q/pC0NrTY/+lJ2ybjfha5QNmvKdkZqyGA=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/slider.jpg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ogGlsn5dF9YjWohOcMixyIdt0bn4HCvJrfRnKS5HwJM=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/slider3.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			p4w49ja/f+1YnpvWKyRR81bPpzSAG85GzPxhuyMX0jY=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/women%20fashion/kurta.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2zbvbYmyWU9TR1bFuziHezVor6oxBt06u54kktJlHYg=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/women%20fashion/lehenga.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jx7O7TGWR+P73r8gVpi43Q+NmOes6u4KXS/Z8E3/inM=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/women%20fashion/pants.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AnxuHYe0v4xAnEnNa0InvEcIZZPFF5YyTWVSaCMJdas=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/images/women%20fashion/t-shert.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+ojrgyXqGrNUr56pfRUB5Fs2T1cfcA9tW57pMUGtgkI=
+			QUr1wf+6+5vQyBdsSVi2SSRpTDf2IiIpZEZq9onZpQY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/isolate_snapshot_data</key>
@@ -745,7 +591,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5eN6bqXh8Gd1TDWS0WIg23EoR7tffG3E3nfCK8OGwNo=
+			X6Kkrg1ouob1uxOXs8Z2boXwtMs9q5Qa0CnFfSQwGQ0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -941,7 +787,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e9reggg/a66C4RJp6CtlwTTMiqOIDQqsrlJOc74V/hk=
+			0lkiSRARtft2pQ+PB+qK99xxaQpD1nxw8vBz6L+MKDA=
 			</data>
 		</dict>
 		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation_privacy.bundle/Info.plist</key>
@@ -962,7 +808,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EqeFg3P7c8+aU9VQyi2e883Fw8ewqdHjpts5UMkf+Do=
+			SFDISK5E2BDPKIYl4QKJZPRIYqSl0tonKEsazyF9Q44=
 			</data>
 		</dict>
 		<key>__preview.dylib</key>
