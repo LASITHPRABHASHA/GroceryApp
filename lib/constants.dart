@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
 
-const kcontentColor = Color.fromARGB(255, 243, 255, 252);
-const kprimaryColor = Color.fromARGB(255, 3, 68, 51);
+const kcontentColor = Color.fromARGB(255, 255, 249, 242);
+const kprimaryColor = Color.fromARGB(255, 235, 125, 7);

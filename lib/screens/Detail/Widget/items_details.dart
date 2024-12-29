@@ -26,7 +26,7 @@ class ItemsDetails extends StatelessWidget {
             ),
             // Product price
             Text(
-              "\$${product.price}",
+              "Rs.${product.priceInRs}",
               style: const TextStyle(
                 fontWeight: FontWeight.w800,
                 fontSize: 25,

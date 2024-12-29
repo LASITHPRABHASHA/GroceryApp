@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		wyS7G6KAGiVV+JAB4r0FRyVVn8o=
+		KzgSYtNDTyjS2oc/spXz3R3lUVs=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		vLM6PXQ6VUi5rXL6hmrmVlhu0F8=
+		djAT5XPi6kvd0AeKilrFset3haA=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
-		daBO52tga8lMITylu54VDifzUdo=
+		3c+GjwERGVFbjqY1GkzQt/1b9No=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		OsnGoMsz413DztJefZodId3Xp0s=
+		prS8tQbmOshD9njQr0QbSOMyjR4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/product_model.json</key>
 		<data>
-		sts1PJr/xiwD1lCc5Y/17l0aow8=
+		sLQ77h3eO+C2wgmEXxL6CPE5rN0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -88,13 +88,21 @@
 		<data>
 		0Y7wyskfDuAh1LQFjil5P6yYxfI=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/beverages/CocaCola.png</key>
+		<data>
+		QGcVH3aYXNdntqiWCVKy8fUIOQU=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/beverages/OrangeJuice.jpg</key>
 		<data>
 		R4XY1Cuv4M+tmULS38ja+/xHrXc=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/beverages/OrangeJuice.png</key>
+		<data>
+		7bvJvhWXPt3yHGBoABxg6K6CXV4=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/beverages/Sprite.png</key>
 		<data>
-		Thjr65ue1FMr4c4jat5C0BVi4iU=
+		gqdEL/xZYPVX2nXUkOQxwclB06E=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/beverages/StrawberryJuice.jpg</key>
 		<data>
@@ -104,6 +112,10 @@
 		<data>
 		cB1ivjW8fXjlDTmE8MKY5SL2HJA=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Apple.png</key>
+		<data>
+		i0Jb9cGb5Y2HOvsrkemKVdveqn4=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/fruits/Avacado.jpg</key>
 		<data>
 		Xcr7Xcv1+A0QHEaglg4vTWr0aS0=
@@ -111,6 +123,10 @@
 		<key>Frameworks/App.framework/flutter_assets/images/fruits/Banana.jpg</key>
 		<data>
 		tY6Jm6w8vQu4WALNFag0Cu76HAo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Banana.png</key>
+		<data>
+		i+pBSWZmrdN2IpArvD7B7Uf+oYk=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/fruits/Blueberries.jpg</key>
 		<data>
@@ -128,6 +144,10 @@
 		<data>
 		kVFK3l6GnHNMcquotk3vZo9QuGA=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/snacks/Chips1.png</key>
+		<data>
+		YAD6o6kizxuYNpGZfXJb1bhR4Ao=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/snacks/Chips1.webp</key>
 		<data>
 		f/+olKGBNH09PHvb0YznCzkjtHI=
@@ -140,9 +160,17 @@
 		<data>
 		ARNrESA81OmTOAx8wEV92cRbZrQ=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/snacks/PotatoChips.png</key>
+		<data>
+		I5e8N5eIUbFkgmKA43MCQifguYQ=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/snacks/TipTip.jpeg</key>
 		<data>
 		zhsILfIe54ZDX3b2/6gQp+zbLgY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/snacks/TipTip.png</key>
+		<data>
+		iPBFmMfY5AxsKDFAAxLINchQk9w=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/vegetables/Beetroot.jpg</key>
 		<data>
@@ -166,7 +194,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		5MtEJGFDdqMUonoDijgy4QOFKXE=
+		i2WtxmATiK78lrFFmLjMYYvasn0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -381,7 +409,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cfBMtytB12yVN6uFt0RWO0XFD41oGS2F9h4/zDhvOUI=
+			6Ku9hATGTceWEYKQSrZVZQ/5QHFcePM6GRSKrEzY3R8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -395,21 +423,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RRTMKYAGUsP3Pza9t0G7mwD2g10PZwmecLFcZNK+nzk=
+			NZggpRytoulfsnBvmC37Rv8StfKwpg5OZ/dUCt9I9QA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JStYeff/2I93bTlq4jduc4RKeERbKJXIweWo6FMI2Zc=
+			xuMDc4HBGvTmVImMkk47QR9cfXZP/LdkObVtU8K5NJI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q3+J4xOfIQkFJUVbjhoWbuF25/4wiHUu6s50/OGpoRE=
+			5fXd1gng1Ojf0TfHwRaYdibEpZ0wLr1YxYUeygfid7A=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -430,7 +458,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XNe7Lvao6bN9B35AQfZ3wWVphL+5px/LJsPKS2AkiPo=
+			xwT2IZaIPhx8gWIPz9vlBcsvRFVKJHwPfW1wvuSTq3w=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -454,6 +482,13 @@
 			bRRQYpA4M0B0y3lOfE6nslwtfYLntIUptJuZ1BxZxjI=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/beverages/CocaCola.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HY/Bo4+MDSPLmBoGhJvcSrdBwbNiqR9068H9B33ZYIc=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/beverages/OrangeJuice.jpg</key>
 		<dict>
 			<key>hash2</key>
@@ -461,11 +496,18 @@
 			PWpNmwMdK3fXmNxxtVLxw/+Y5bE5/VN27ZqBm50m0Nc=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/beverages/OrangeJuice.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gSjpNxJgpW/vgTK+AV9UajfzZUqpLCP+QUZlxHGRaas=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/beverages/Sprite.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pnoTnws2/AEovqDmdUYqvckwnpdK15xQmbAddSAhAKw=
+			NhuCG5yFvx32q+p2HkInfAXLjIGOiC3d2djN7ZbzjVU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/beverages/StrawberryJuice.jpg</key>
@@ -482,6 +524,13 @@
 			GcOVujaRVPPE8zKDDExZwDoh7t3Z3cvlXUEkXAl2Ocg=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Apple.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CWRgCsx/SE1aCW0lO6AoKsqIWcrhI4ulnrFeWMje+Yk=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/fruits/Avacado.jpg</key>
 		<dict>
 			<key>hash2</key>
@@ -494,6 +543,13 @@
 			<key>hash2</key>
 			<data>
 			y7yX65u9sq5uJnXaese6xhvaAlKTZnTtlXZ8Pp5XhzI=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/fruits/Banana.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			swUHdIM0phct/HrujxGjt5QYLpxj4E1SBMHGOI36xd0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/fruits/Blueberries.jpg</key>
@@ -524,6 +580,13 @@
 			JShDZMfnp0pJkFRJh3ylt4NgODCLX+J/5Fd2QMROb9I=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/snacks/Chips1.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3/OR6zkMZTEJkXrjHZplcFfKtqGN4oq/3TL6uIRwDfk=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/snacks/Chips1.webp</key>
 		<dict>
 			<key>hash2</key>
@@ -545,11 +608,25 @@
 			YRo69mqS8KVEe1QVFtuqnfdC8Xp0qFSdM6iW8wxI1z8=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/snacks/PotatoChips.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NFBSNrEMj67rQSFRFAmq8K6QIXjR12YcDAzoMOpSXWE=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/snacks/TipTip.jpeg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			i0EUuqFa5trKz0PxxjhAHmiwQ+iAl/tHhyT1m03Iahs=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/snacks/TipTip.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MyRiuy/FFx/k0rszGKYH9nqv9idgwwGIo9Zr072t/kw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/vegetables/Beetroot.jpg</key>
@@ -591,7 +668,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X6Kkrg1ouob1uxOXs8Z2boXwtMs9q5Qa0CnFfSQwGQ0=
+			D+UN9EzjYinuEUnA8hraA4UyU1CO7oq61ASQu985FXo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

@@ -2,8 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:grocery_app/Provider/add_to_cart_provider.dart';
 import 'package:grocery_app/Provider/favorite_provider.dart';
+import 'package:grocery_app/screens/Cart/form.dart';
 import 'screens/nav_bar_screen.dart';
-import 'package:provider/provider.dart';
+import 'package:provider/provider.dart'; // Import CheckoutFormScreen
 
 void main() {
   runApp(const MyApp());
@@ -25,7 +26,13 @@ class MyApp extends StatelessWidget {
           theme: ThemeData(
             textTheme: GoogleFonts.mulishTextTheme(),
           ),
-          home: const BottomNavBar(),
+          // Define routes here
+          initialRoute: '/',
+          routes: {
+            '/': (context) => const BottomNavBar(),
+            CheckoutFormScreen.routeName: (context) => CheckoutFormScreen(),
+          },
+          // ... other MaterialApp properties
         ),
       );
 }

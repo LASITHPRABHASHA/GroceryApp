@@ -7,7 +7,7 @@ class Product {
   final String image;
   final String review;
   final String seller;
-  final double price;
+  final double priceInRs;
   final String category;
   final double rate;
   int quantity;
@@ -17,7 +17,7 @@ class Product {
     required this.review,
     required this.description,
     required this.image,
-    required this.price,
+    required this.priceInRs,
     required this.seller,
     required this.category,
     required this.rate,
@@ -31,7 +31,7 @@ class Product {
       image: json['image'],
       review: json['review'],
       seller: json['seller'],
-      price: json['price'].toDouble(),
+      priceInRs: json['price'].toDouble(),
       category: json['category'],
       rate: json['rate'].toDouble(),
       quantity: json['quantity'],

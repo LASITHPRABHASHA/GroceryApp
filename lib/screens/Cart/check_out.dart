@@ -1,6 +1,8 @@
+// CheckOutBox.dart
 import 'package:flutter/material.dart';
 import 'package:grocery_app/Provider/add_to_cart_provider.dart';
 import 'package:grocery_app/constants.dart';
+import 'package:grocery_app/screens/Cart/form.dart';
 
 class CheckOutBox extends StatelessWidget {
   const CheckOutBox({super.key});
@@ -33,14 +35,14 @@ class CheckOutBox extends StatelessWidget {
               ),
               filled: true,
               fillColor: kcontentColor,
-              hintText: "Enter Discoutn Code",
+              hintText: "Enter Discount Code",
               hintStyle: const TextStyle(
                 color: Colors.grey,
                 fontWeight: FontWeight.w600,
                 fontSize: 14,
               ),
               suffixIcon: TextButton(
-                onPressed: () {},
+                onPressed: () {}, // Implement discount code logic here
                 child: const Text(
                   "Apply",
                   style: TextStyle(
@@ -57,7 +59,7 @@ class CheckOutBox extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               const Text(
-                "SbuTotal",
+                "Subtotal",
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   color: Colors.grey,
@@ -65,7 +67,7 @@ class CheckOutBox extends StatelessWidget {
                 ),
               ),
               Text(
-                "\$${provider.totalPrice()}",
+                "\Rs.${provider.totalPrice()}",
                 style: const TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 16,
@@ -80,14 +82,14 @@ class CheckOutBox extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               const Text(
-                "total",
+                "Total",
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 18,
                 ),
               ),
               Text(
-                "\$${provider.totalPrice()}",
+                "\Rs.${provider.totalPrice()}",
                 style: const TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 18,
@@ -101,7 +103,10 @@ class CheckOutBox extends StatelessWidget {
                 backgroundColor: kprimaryColor,
                 minimumSize: const Size(double.infinity, 55),
               ),
-              onPressed: () {},
+              onPressed: () {
+                // Navigate to the checkout form screen
+                Navigator.pushNamed(context, CheckoutFormScreen.routeName);
+              },
               child: const Text(
                 "Check Out",
                 style: TextStyle(
@@ -115,4 +120,3 @@ class CheckOutBox extends StatelessWidget {
     );
   }
 }
-// now we add the provider and display the total price

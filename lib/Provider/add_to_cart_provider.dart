@@ -37,7 +37,7 @@ class CartProvider extends ChangeNotifier {
   totalPrice() {
     double myTotal = 0.0; // initial
     for (Product element in _cart) {
-      myTotal += element.price * element.quantity;
+      myTotal += element.priceInRs * element.quantity;
     }
     return myTotal;
   }

@@ -76,7 +76,7 @@ class _FavoriteState extends State<Favorite> {
                                     ),
                                     const SizedBox(height: 10),
                                     Text(
-                                      "\$${favoriteItems.price}",
+                                      "\Rs.${favoriteItems.priceInRs}",
                                       style: const TextStyle(
                                         fontWeight: FontWeight.bold,
                                         fontSize: 14,
@@ -90,13 +90,12 @@ class _FavoriteState extends State<Favorite> {
                         ),
                         // for delete button
                         Positioned(
-                          top: 50,right: 35,
+                          top: 50,
+                          right: 35,
                           child: GestureDetector(
                             onTap: () {
                               finalList.removeAt(index);
-                              setState(() {
-                                
-                              });
+                              setState(() {});
                             },
                             child: const Icon(
                               Icons.delete,
